@@ -28,7 +28,7 @@ def scrape():
     g.mainloop()    
 
 def aboutus():
-    tk.messagebox.showinfo("About Us","used By: Simran and Himanshi")
+    tk.messagebox.showinfo("About Us","Created By: Shubham, Simran and Himanshi")
 
 def quit():
     top.destroy()
